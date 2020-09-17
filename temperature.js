@@ -38,6 +38,6 @@ function convertFahrenheitOrCelcius(temperatureType, degree) {
   }
 
   console.log(
-    'Entry not recongized. Please enter first argument temperatureType in "string" format, and the second argument degree as a number'
+    'Entry not recongized. Please enter first argument temperatureType as "string" format, and the second argument degree as a number'
   );
 }
